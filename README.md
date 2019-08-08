@@ -13,4 +13,4 @@ your own screenshot.
 
 ## <your-project-name>
 
-a brief description of your project goes here
+Cozmo is drawing an outline of a city
